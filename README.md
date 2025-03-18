@@ -47,7 +47,7 @@ AuthAppBackend est une API RESTful développée avec Node.js et Express qui gèr
 ```bash
 # Cloner le dépôt
 git clone https://github.com/waelby99/AuthNode.git
-cd authappbackend
+cd AuthNode
 
 # Installer les dépendances
 npm install
@@ -151,7 +151,7 @@ EMAIL_PORT=587
 ## 📋 Structure du projet
 
 ```
-authappbackend/
+AuthNode/
 ├── config/
 │   ├── mongodb.js
 │   └── nodemailer.js
