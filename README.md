@@ -1,4 +1,4 @@
-# AuthAppBackend
+# AuthAppBackend 
 
 ## 📋 Description
 AuthAppBackend est une API RESTful développée avec Node.js et Express qui gère l'authentification complète des utilisateurs. Ce système backend offre des fonctionnalités robustes d'enregistrement, de connexion, de vérification d'email, de réinitialisation de mot de passe, et plus encore.
